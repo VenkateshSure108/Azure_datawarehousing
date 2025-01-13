@@ -1,0 +1,9 @@
+{
+	"name": "venkatesh-hospital-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0668c6e-8b9c-43a3-8307-e0b5f4c41f5e",
+		"tenantId": "7aee496a-3d7a-43c0-85b5-6e55788b5789"
+	}
+}
